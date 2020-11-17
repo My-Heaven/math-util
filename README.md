@@ -7,7 +7,7 @@
 * README.md - this file itself to show the homepage of this repo
 
 ## Connect me via
-1.(https://facebook.com/t.dat.112k)
-2.[Email](mailto:tandat112k@gmail.com)
+1. (https://facebook.com/t.dat.112k)
+2. [Email](mailto:tandat112k@gmail.com)
 
 #### © 2020 by TanDat
